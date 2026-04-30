@@ -1,8 +1,1 @@
-org\example\Main$BotHandler.class
 org\example\Main.class
-org\example\Main$LevelOneHandler.class
-org\example\Main$LevelTwoHandler.class
-org\example\Main$Severity.class
-org\example\Main$ManagerHandler.class
-org\example\Main$Ticket.class
-org\example\Main$Handler.class
